@@ -45,7 +45,7 @@ Additional Make Commands:
 * `build-c`: clears the configuration of the project without deleting files
 * `build-C`: clears the configuration of the project without deleting files and, after compilation, makes a checksums comprobation comparing it with the original file
 
-`build-c/build-C` are obligatory in case of modifing the configuration in the `Makefile` in case of wanting to work on screen overlays and the maps overlays
+`build-c/build-C` are obligatory in case of modifing the configuration in the `Makefile` in order to work on screen overlays and the maps overlays
 
 ## Contributing
 Contributions are welcome. If you would like to reserve a function, open a PR with the function or file name(s).
